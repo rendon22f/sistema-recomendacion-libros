@@ -5,7 +5,7 @@ Proyecto para la materia de Lenguajes de Programación. Sistema basado en Python
 
 ## Configuración 
 1. Importar el archivo `recomendacion.sql` en phpMyAdmin.
-2. Instalar dependencias: `pip install -r requirements.txt`.
+2. Instalar dependencias en la terminal de Pycharm: `pip install -r requirements.txt`.
 3. Ejecutar `main.py` para iniciar el sistema.
 
 ## Funcionalidades del Avance
